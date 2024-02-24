@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rutuja68
 - 👀 I’m a Data Analyst Intern From ETLHive
-- 🌱 My topics of Interest are Machine Learning and AI
+- 🌱 My topics of Interest are Machine Learning 
 - 📫 How to reach me rutujamore862@gmail.com
   
 
